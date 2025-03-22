@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dipika
 - 👀 I’m interested in [ aiml ] 
 - 🌱 I’m currently learning [Python, C++]
-- 📫 How to reach me [email-dipikac1306@gmail.com]
+- 📫 How to reach me [dipikac1306@gmail.com]
 - 😄 Pronouns: [she/her]
 
 <!---
