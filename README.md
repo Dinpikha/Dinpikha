@@ -14,25 +14,6 @@ I build small, working pieces of AI systems — search engines, retrieval pipeli
 
 <br>
 
-<img src="https://img.shields.io/badge/-WHO%20I%20AM-6C63FF?style=flat-square" height="18" alt=""/>
-
-## About
-
-<table>
-<tr>
-<td width="12%"><b>🎓 Studying</b></td>
-<td>Electronics & Telecommunication Engineering</td>
-</tr>
-<tr>
-<td><b>💡 Interested In</b></td>
-<td>Artificial Intelligence, Machine Learning, Backend Systems</td>
-</tr>
-</table>
-
-I like understanding how things work by taking them apart — a search engine, a language model, an API — and rebuilding small versions myself. It's usually the only way anything really sticks.
-
-<br>
-
 <img src="https://img.shields.io/badge/-WHAT%20I'M%20BUILDING-6C63FF?style=flat-square" height="18" alt=""/>
 
 ## Current Projects
