@@ -1,111 +1,148 @@
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4682B4&vCenter=true&width=600&lines=Hi%2C+I'm+Dipika+%F0%9F%91%8B;ENTC+Student;AI+%26+Machine+Learning+Enthusiast;Building+AI+Applications;Always+Learning+Something+New" alt="Typing SVG" />
+<div align="center">
 
-<sub>Building practical AI applications, exploring intelligent systems, and learning something new every day.</sub>
-
-<br><br>
-
-## 🔹 About
-
-I study Electronics and Telecommunication Engineering, but most of my time goes into AI, machine learning, and backend development. I like taking things apart to see how they work -> a search engine, a language model, an API , and then rebuilding small versions of them myself. That's usually how I end up learning anything properly: not by reading about it, but by getting stuck and figuring it out.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&vCenter=true&width=600&lines=Hi%2C+I'm+Dipika+%F0%9F%91%8B;ENTC+Student;AI+%26+Machine+Learning+Enthusiast;Building+AI+Applications;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br>
 
-## 🔹 Currently Building
+### Dipika
+
+<img src="https://img.shields.io/badge/-ENTC%20STUDENT-6C63FF?style=flat-square" height="20" alt=""/>&nbsp;<img src="https://img.shields.io/badge/-AI%20%26%20MACHINE%20LEARNING-6C63FF?style=flat-square" height="20" alt=""/>&nbsp;<img src="https://img.shields.io/badge/-BACKEND%20DEVELOPMENT-6C63FF?style=flat-square" height="20" alt=""/>
+
+<br>
+
+I build small, working pieces of AI systems — search engines, retrieval pipelines, interview simulators — and learn by taking them apart.
+
+</div>
+
+<br>
+
+<img src="https://img.shields.io/badge/-WHO%20I%20AM-6C63FF?style=flat-square" height="18" alt=""/>
+
+## About
+
+<table>
+<tr>
+<td width="12%"><b>🎓 Studying</b></td>
+<td>Electronics & Telecommunication Engineering</td>
+</tr>
+<tr>
+<td><b>💡 Interested In</b></td>
+<td>Artificial Intelligence, Machine Learning, Backend Systems</td>
+</tr>
+<tr>
+<td><b>🔨 Building</b></td>
+<td>Searchify, an AI Interview Preparation Platform</td>
+</tr>
+<tr>
+<td><b>🌱 Learning</b></td>
+<td>RAG, System Design, Competitive Programming</td>
+</tr>
+</table>
+
+I like understanding how things work by taking them apart — a search engine, a language model, an API — and rebuilding small versions myself. It's usually the only way anything really sticks.
+
+<br>
+
+<img src="https://img.shields.io/badge/-WHAT%20I'M%20BUILDING-6C63FF?style=flat-square" height="18" alt=""/>
+
+## Current Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **Searchify**
-AI-powered desktop search engine using local LLMs.
-`Information Retrieval` `Semantic Search` `Local LLMs`
+<img src="https://img.shields.io/badge/status-building-6C63FF?style=flat-square" height="18" alt=""/>
+
+AI-powered desktop search engine built around local LLMs and semantic search.
+
+`Python` `Local LLMs` `Semantic Search`
+
+[View Repository ↗](https://github.com/Dinpikha/Searchify)
 
 </td>
 <td width="50%" valign="top">
 
 **AI Interview Preparation Platform**
-Resume analysis and mock interviews with personalized feedback.
-`FastAPI` `NLP` `Feedback Systems`
+<img src="https://img.shields.io/badge/status-building-6C63FF?style=flat-square" height="18" alt=""/>
+
+Resume analysis and mock interviews with personalized, structured feedback.
+
+`FastAPI` `NLP` `Python`
+
+[View Repository ↗](https://github.com/Dinpikha/Interview-prep)
 
 </td>
 </tr>
 </table>
 
-<sub>**Currently learning** — Machine Learning - RAG - System Design - Competitive Programming</sub>
-
 <br>
 
-## 🔹 Previously Explored
+<img src="https://img.shields.io/badge/-TECH%20I'VE%20TOUCHED-6C63FF?style=flat-square" height="18" alt=""/>
 
-<table>
-<tr>
-<td width="20%">VLMs</td>
-<td width="20%">YOLO</td>
-<td width="20%">Local LLMs</td>
-<td width="20%">FastAPI</td>
-<td width="20%">React</td>
-</tr>
-<tr>
-<td>SQLite</td>
-<td>Prompt Engineering</td>
-<td>Resume Parsing</td>
-<td>Information Retrieval</td>
-<td>Linux</td>
-</tr>
-<tr>
-<td>Git</td>
-<td>LangChain</td>
-<td>Hugging Face</td>
-<td>ChromaDB</td>
-<td>LM Studio</td>
-</tr>
-</table>
+## Previously Explored
+
+**Vision & Detection**
+<img src="https://img.shields.io/badge/VLMs-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/YOLO-6C63FF?style=flat-square" alt=""/>
+
+**Language & Retrieval**
+<img src="https://img.shields.io/badge/Local%20LLMs-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/LangChain-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Hugging%20Face-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Information%20Retrieval-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Resume%20Parsing-6C63FF?style=flat-square" alt=""/>
+
+**Systems & Tools**
+<img src="https://img.shields.io/badge/FastAPI-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/React-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/SQLite-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/LM%20Studio-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Linux-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Git-6C63FF?style=flat-square" alt=""/>
 
 <sub>Areas I've experimented with — not areas I claim to have mastered.</sub>
 
 <br>
 
-## 🔹 Tech Stack
+<img src="https://img.shields.io/badge/-MY%20STACK-6C63FF?style=flat-square" height="18" alt=""/>
 
-| Languages | Backend | Frontend | AI / ML | Databases | Tools |
-| --- | --- | --- | --- | --- | --- |
-| Python | FastAPI | React | Hugging Face | SQLite | Git |
-| C++ | Flask | HTML/CSS | LangChain | MySQL | Linux |
-| JavaScript | | | ChromaDB | | VS Code |
-| | | | Ollama / LM Studio | | GitHub |
+## Tech Stack
 
-<br>
-
-## 🔹 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Searchify**
-An AI-powered desktop search engine built around local LLMs and semantic search.
-`Python` `Local LLMs` `Semantic Search`
-[View Repository →](https://github.com/Dinpikha/Searchify)
-
-</td>
-<td width="50%" valign="top">
-
-**AI Interview Preparation Platform**
-A FastAPI platform for resume analysis, mock interviews, and feedback.
-`FastAPI` `NLP` `Python`
-[View Repository →](https://github.com/Dinpikha/Interview-prep)
-
-</td>
-</tr>
-</table>
+```
+Languages     Python · C++ · JavaScript
+Backend       FastAPI · Flask
+Frontend      React · HTML · CSS
+AI / ML       Hugging Face · LangChain · ChromaDB · Ollama / LM Studio
+Databases     SQLite · MySQL
+Tools         Git · GitHub · Linux · VS Code
+```
 
 <br>
 
-## 🔹 Connect
+<img src="https://img.shields.io/badge/-SELECTED%20WORK-6C63FF?style=flat-square" height="18" alt=""/>
+
+## Featured Projects
+
+| Project | Stack | Link |
+| --- | --- | --- |
+| **Searchify** — AI-powered desktop search engine | `Python` `Local LLMs` | [Repository ↗](https://github.com/Dinpikha/Searchify) |
+| **AI Interview Preparation Platform** — resume analysis & mock interviews | `FastAPI` `NLP` | [Repository ↗](https://github.com/Dinpikha/Interview-prep) |
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-ACTIVITY-6C63FF?style=flat-square" height="18" alt=""/>
+
+## GitHub Stats
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dinpikha&show_icons=true&hide_border=true&theme=transparent&text_color=444444&icon_color=6C63FF&title_color=6C63FF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinpikha&layout=compact&hide_border=true&theme=transparent&text_color=444444&title_color=6C63FF&langs_count=6" height="165" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-REACH%20OUT-6C63FF?style=flat-square" height="18" alt=""/>
+
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/dipika-choudhary-97616b279) &nbsp;·&nbsp; [Email](mailto:dipikac1306@gmail.com)
 
 <br><br>
 
+<hr width="40%">
+
 <sub>You'll usually find me debugging an AI project, solving a DSA problem, or asking "but why does this work?"</sub>
+
+</div>
