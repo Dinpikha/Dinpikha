@@ -83,7 +83,7 @@ Tools         Git · GitHub · Linux · VS Code
 
 ## Connect
  
-<a href="https://www.linkedin.com/in/dipika-choudhary-97616b279">
+<a href="https://www.linkedin.com/in/dipika-choudhary-/">
   <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
 </a>
 &nbsp;
