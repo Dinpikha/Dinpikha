@@ -79,18 +79,6 @@ Databases     SQLite · MySQL
 Tools         Git · GitHub · Linux · VS Code
 ```
 
-<br>
-
-
-## Featured Projects
-
-| Project | Stack | Link |
-| --- | --- | --- |
-| **Searchify** — AI-powered desktop search engine | `Python` `Local LLMs` | [Repository ↗](https://github.com/Dinpikha/Searchify) |
-| **AI Interview Preparation Platform** — resume analysis & mock interviews | `FastAPI` `NLP` | [Repository ↗](https://github.com/Dinpikha/Interview-prep) |
-
-<br>
-
 <div align="center">
 
 ## Connect
