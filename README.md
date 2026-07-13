@@ -1,22 +1,17 @@
-<div align="center">
-
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=444444&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dipika+%F0%9F%91%8B;ENTC+Student;AI+%26+Machine+Learning+Enthusiast;Building+AI+Applications;Always+Learning+Something+New" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4682B4&vCenter=true&width=600&lines=Hi%2C+I'm+Dipika+%F0%9F%91%8B;ENTC+Student;AI+%26+Machine+Learning+Enthusiast;Building+AI+Applications;Always+Learning+Something+New" alt="Typing SVG" />
 
 <sub>Building practical AI applications, exploring intelligent systems, and learning something new every day.</sub>
 
-</div>
-
 <br><br>
 
-## About
+## 🔹 About
 
-I study Electronics and Telecommunication Engineering, but most of my time goes into AI, machine learning, and backend development. I like taking things apart to see how they work — a search engine, a language model, an API — and then rebuilding small versions of them myself. That's usually how I end up learning anything properly: not by reading about it, but by getting stuck and figuring it out.
+I study Electronics and Telecommunication Engineering, but most of my time goes into AI, machine learning, and backend development. I like taking things apart to see how they work -> a search engine, a language model, an API , and then rebuilding small versions of them myself. That's usually how I end up learning anything properly: not by reading about it, but by getting stuck and figuring it out.
 
 <br>
 
-## Currently Building
+## 🔹 Currently Building
 
 <table>
 <tr>
@@ -37,33 +32,33 @@ Resume analysis and mock interviews with personalized feedback.
 </tr>
 </table>
 
-<sub>**Currently learning** — Machine Learning · RAG · System Design · Competitive Programming</sub>
+<sub>**Currently learning** — Machine Learning - RAG - System Design - Competitive Programming</sub>
 
 <br>
 
-## Previously Explored
+## 🔹 Previously Explored
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="20%">VLMs</td>
-<td align="center" width="20%">YOLO</td>
-<td align="center" width="20%">Local LLMs</td>
-<td align="center" width="20%">FastAPI</td>
-<td align="center" width="20%">React</td>
+<td width="20%">VLMs</td>
+<td width="20%">YOLO</td>
+<td width="20%">Local LLMs</td>
+<td width="20%">FastAPI</td>
+<td width="20%">React</td>
 </tr>
 <tr>
-<td align="center">SQLite</td>
-<td align="center">Prompt Engineering</td>
-<td align="center">Resume Parsing</td>
-<td align="center">Information Retrieval</td>
-<td align="center">Linux</td>
+<td>SQLite</td>
+<td>Prompt Engineering</td>
+<td>Resume Parsing</td>
+<td>Information Retrieval</td>
+<td>Linux</td>
 </tr>
 <tr>
-<td align="center">Git</td>
-<td align="center">LangChain</td>
-<td align="center">Hugging Face</td>
-<td align="center">ChromaDB</td>
-<td align="center">LM Studio</td>
+<td>Git</td>
+<td>LangChain</td>
+<td>Hugging Face</td>
+<td>ChromaDB</td>
+<td>LM Studio</td>
 </tr>
 </table>
 
@@ -71,7 +66,7 @@ Resume analysis and mock interviews with personalized feedback.
 
 <br>
 
-## Tech Stack
+## 🔹 Tech Stack
 
 | Languages | Backend | Frontend | AI / ML | Databases | Tools |
 | --- | --- | --- | --- | --- | --- |
@@ -82,7 +77,7 @@ Resume analysis and mock interviews with personalized feedback.
 
 <br>
 
-## Featured Projects
+## 🔹 Featured Projects
 
 <table>
 <tr>
@@ -107,20 +102,10 @@ A FastAPI platform for resume analysis, mock interviews, and feedback.
 
 <br>
 
-## Connect
-
-<!-- Replace each placeholder with your own link/address -->
-
-<div align="center">
+## 🔹 Connect
 
 [LinkedIn](https://www.linkedin.com/in/dipika-choudhary-97616b279) &nbsp;·&nbsp; [Email](mailto:dipikac1306@gmail.com)
 
-</div>
-
 <br><br>
 
-<div align="center">
-
 <sub>You'll usually find me debugging an AI project, solving a DSA problem, or asking "but why does this work?"</sub>
-
-</div>
