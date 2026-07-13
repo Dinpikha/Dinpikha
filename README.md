@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&vCenter=true&width=600&lines=Hi%2C+I'm+Dipika+%F0%9F%91%8B;ENTC+Student;AI+%26+Machine+Learning+Enthusiast;Building+AI+Applications;Always+Learning+Something+New" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dipika+%F0%9F%91%8B;ENTC+Student;AI+%26+Machine+Learning+Enthusiast;Building+AI+Applications" alt="Typing SVG" />
 <br>
 
 ### Dipika
@@ -28,14 +26,6 @@ I build small, working pieces of AI systems — search engines, retrieval pipeli
 <tr>
 <td><b>💡 Interested In</b></td>
 <td>Artificial Intelligence, Machine Learning, Backend Systems</td>
-</tr>
-<tr>
-<td><b>🔨 Building</b></td>
-<td>Searchify, an AI Interview Preparation Platform</td>
-</tr>
-<tr>
-<td><b>🌱 Learning</b></td>
-<td>RAG, System Design, Competitive Programming</td>
 </tr>
 </table>
 
@@ -110,7 +100,6 @@ Tools         Git · GitHub · Linux · VS Code
 
 <br>
 
-<img src="https://img.shields.io/badge/-SELECTED%20WORK-6C63FF?style=flat-square" height="18" alt=""/>
 
 ## Featured Projects
 
@@ -122,27 +111,23 @@ Tools         Git · GitHub · Linux · VS Code
 <br>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/-ACTIVITY-6C63FF?style=flat-square" height="18" alt=""/>
-
-## GitHub Stats
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dinpikha&show_icons=true&hide_border=true&theme=transparent&text_color=444444&icon_color=6C63FF&title_color=6C63FF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinpikha&layout=compact&hide_border=true&theme=transparent&text_color=444444&title_color=6C63FF&langs_count=6" height="165" />
-
-<br><br>
-
 <img src="https://img.shields.io/badge/-REACH%20OUT-6C63FF?style=flat-square" height="18" alt=""/>
 
 ## Connect
-
-[LinkedIn](https://www.linkedin.com/in/dipika-choudhary-97616b279) &nbsp;·&nbsp; [Email](mailto:dipikac1306@gmail.com)
-
+ 
+<a href="https://www.linkedin.com/in/dipika-choudhary-97616b279">
+  <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:dipikac1306@gmail.com">
+  <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email"/>
+</a>
 <br><br>
-
-<hr width="40%">
-
-<sub>You'll usually find me debugging an AI project, solving a DSA problem, or asking "but why does this work?"</sub>
-
+ 
+<sub>· · ·</sub>
+ 
+<br>
+<i>You'll usually find me debugging an AI project, solving a DSA problem,<br>or asking "but why does this work?"</i>
+ 
 </div>
+ 
