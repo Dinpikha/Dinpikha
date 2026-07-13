@@ -92,7 +92,6 @@ Tools         Git · GitHub · Linux · VS Code
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-REACH%20OUT-6C63FF?style=flat-square" height="18" alt=""/>
 
 ## Connect
  
