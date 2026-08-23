@@ -1,88 +1,106 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dipika+%F0%9F%91%8B;ENTC+Student;AI+%26+Machine+Learning+Enthusiast;Building+AI+Applications" alt="Typing SVG" />
-<br>
 
-### Dipika
-
-<img src="https://img.shields.io/badge/-ENTC%20STUDENT-6C63FF?style=flat-square" height="20" alt=""/>&nbsp;<img src="https://img.shields.io/badge/-AI%20%26%20MACHINE%20LEARNING-6C63FF?style=flat-square" height="20" alt=""/>&nbsp;<img src="https://img.shields.io/badge/-BACKEND%20DEVELOPMENT-6C63FF?style=flat-square" height="20" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dipika+%F0%9F%91%8B;Python+%E2%80%A2+AI+%E2%80%A2+Machine+Learning;Building+intelligent+systems+end-to-end" alt="Typing SVG" />
 
 <br>
 
-I build small, working pieces of AI systems — search engines, retrieval pipelines, interview simulators — and learn by taking them apart.
+Final-year ENTC student building AI/ML systems across forecasting, computer vision, retrieval, recommendation, and backend applications.
 
 </div>
 
 <br>
 
-<img src="https://img.shields.io/badge/-WHAT%20I'M%20BUILDING-6C63FF?style=flat-square" height="18" alt=""/>
+## Selected Projects
 
-## Current Projects
+### RESILIENCE — Public Health Resource Intelligence Platform
 
-<table>
-<tr>
-<td width="50%" valign="top">
+An offline-first, AI-assisted resource intelligence MVP for Primary Health Centres. Combines demand forecasting, optimization, and human-in-the-loop decision support in a single end-to-end system.
 
-**Searchify**
-<img src="https://img.shields.io/badge/status-building-6C63FF?style=flat-square" height="18" alt=""/>
+- 7-day and 30-day medicine-demand forecasting with uncertainty estimates and early-warning anomaly detection
+- Days-of-cover / stock-out projections with explainable risk signals and What-If scenario simulation
+- PuLP-based resource redistribution optimization with human-in-the-loop approval
+- Offline PHC Edge data collection with sync, plus data-quality/staleness monitoring
+- Federated-learning simulation (Flower + PyTorch) and a grounded platform chatbot
+- Built on synthetic data across 24 PHCs and 3 districts — an MVP, not a deployed system
 
-AI-powered desktop search engine built around local LLMs and semantic search.
+`Python` `FastAPI` `scikit-learn` `PuLP` `Flower` `PyTorch` `React`
 
-`Python` `Local LLMs` `Semantic Search`
+**Repository:** *[PHC-Edge-App](https://github.com/Dinpikha/Resilience)*
 
-[View Repository ↗](https://github.com/Dinpikha/Searchify)
+---
 
-</td>
-<td width="50%" valign="top">
+### AI Interview Preparation Platform
 
-**AI Interview Preparation Platform**
-<img src="https://img.shields.io/badge/status-building-6C63FF?style=flat-square" height="18" alt=""/>
+A deployed full-stack application for interview preparation — demonstrating end-to-end AI application engineering, not just an LLM wrapper.
 
-Resume analysis and mock interviews with personalized, structured feedback.
+- React + Vite frontend with a FastAPI backend on PostgreSQL/Supabase
+- JWT access/refresh auth with GitHub OAuth
+- AI Mentor with conversation memory, resume parsing, and ATS analysis
+- Embedding-based semantic retrieval for resume/job matching
+- Dockerized, with CI/CD via GitHub Actions and pytest + Vitest test coverage
 
-`FastAPI` `NLP` `Python`
+`FastAPI` `React` `PostgreSQL` `LLMs` `Embeddings` `Docker`
 
-[View Repository ↗](https://github.com/Dinpikha/Interview-prep)
+**Repository:** [Interview-prep](https://github.com/Dinpikha/Interview-prep)
 
-</td>
-</tr>
-</table>
+---
+
+### Face Recognition Attendance System
+
+A computer-vision attendance system that recognizes students directly from classroom/group images.
+
+- RetinaFace for detection, FaceNet/DeepFace for recognition
+- One-to-many face matching with duplicate-match prevention
+- SQLite-backed student registry and annotated recognition output
+
+`Python` `OpenCV` `RetinaFace` `FaceNet` `SQLite`
+
+**Repository:** *[Recognition-system](https://github.com/Dinpikha/Attendance-Management-System-)*
+
+---
+
+### Hybrid Movie Recommendation System
+
+A hybrid recommender combining collaborative filtering with content-based signals, served via FastAPI.
+
+- SVD/SVD++ collaborative filtering blended with TF-IDF content-based recommendations
+- Evaluated at RMSE ≈ 0.706 and Precision@5 ≈ 0.864
+
+`Python` `SVD/SVD++` `TF-IDF` `FastAPI`
+
+**Repository:** *[Movie-Recommendation-System](https://github.com/Dinpikha/Recommendation-System)*
 
 <br>
 
-<img src="https://img.shields.io/badge/-TECH%20I'VE%20TOUCHED-6C63FF?style=flat-square" height="18" alt=""/>
+## Technical Toolkit
 
-## Previously Explored
+**Languages**
+`Python` `C++` `SQL` `JavaScript`
 
-**Vision & Detection**
-<img src="https://img.shields.io/badge/VLMs-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/YOLO-6C63FF?style=flat-square" alt=""/>
+**Machine Learning & AI**
+`PyTorch` `scikit-learn` `Pandas` `NumPy` `OpenCV` `Sentence Transformers`
 
-**Language & Retrieval**
-<img src="https://img.shields.io/badge/Local%20LLMs-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/LangChain-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Hugging%20Face-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Information%20Retrieval-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Resume%20Parsing-6C63FF?style=flat-square" alt=""/>
+**GenAI & Retrieval**
+`LangChain` `Hugging Face` `Groq` `Ollama` `LM Studio` `Embeddings` `RAG`
 
-**Systems & Tools**
-<img src="https://img.shields.io/badge/FastAPI-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/React-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/SQLite-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/LM%20Studio-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Linux-6C63FF?style=flat-square" alt=""/> <img src="https://img.shields.io/badge/Git-6C63FF?style=flat-square" alt=""/>
+**Backend & APIs**
+`FastAPI` `REST APIs` `JWT` `OAuth`
 
-<sub>Areas I've experimented with — not areas I claim to have mastered.</sub>
+**Frontend**
+`React` `Vite` `HTML` `CSS`
+
+**Data**
+`PostgreSQL` `Supabase` `SQLite` `ChromaDB`
+
+**DevOps & Tools**
+`Docker` `Git` `GitHub Actions` `Linux` `AWS`
 
 <br>
-
-<img src="https://img.shields.io/badge/-MY%20STACK-6C63FF?style=flat-square" height="18" alt=""/>
-
-## Tech Stack
-
-```
-Languages     Python · C++ · JavaScript
-Backend       FastAPI · Flask
-Frontend      React · HTML · CSS
-AI / ML       Hugging Face · LangChain · ChromaDB · Ollama / LM Studio
-Databases     SQLite · MySQL
-Tools         Git · GitHub · Linux · VS Code
-```
 
 <div align="center">
 
 ## Connect
- 
+
 <a href="https://www.linkedin.com/in/dipika-choudhary-/">
   <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
 </a>
@@ -90,12 +108,9 @@ Tools         Git · GitHub · Linux · VS Code
 <a href="mailto:dipikac1306@gmail.com">
   <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email"/>
 </a>
+
 <br><br>
- 
-<sub>· · ·</sub>
- 
-<br>
-<i>You'll usually find me debugging an AI project, solving a DSA problem,<br>or asking "but why does this work?"</i>
- 
+
+<i>You'll usually find me debugging an AI project, solving a DSA problem, or asking "but why does this work?"</i>
+
 </div>
- 
